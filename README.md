@@ -1,4 +1,4 @@
-# -Processamento_de_Imagens
+# Processamento de Imagens
 Atividades feitas na matéria de Processamento de Imagens, sendo: 
 
 Exercício 01: 
